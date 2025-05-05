@@ -2,6 +2,7 @@ import React from 'react';
 import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { AiOutlineMail } from "react-icons/ai";
+import { SiLeetcode } from "react-icons/si";
 
 
 const Navbar = () => {
@@ -19,6 +20,7 @@ const Navbar = () => {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a target="_blank"  href="https://www.linkedin.com/in/piyush-patil-66338b252"><FaLinkedin /></a>
         <a target="_blank" href="https://github.com/Piyush-Patil-95"><FaGithub /></a>
+        <a target="_blank" href="https://leetcode.com/u/piyushpatil0009/"><SiLeetcode/></a>
         <a onClick={handleClick} href="#"><AiOutlineMail /></a>
       </div>
     </nav>

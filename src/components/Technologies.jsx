@@ -3,7 +3,7 @@ import { RiReactjsLine } from "react-icons/ri";
 import { SiMongodb } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
 import { SiExpress } from "react-icons/si"; // Express.js icon from Simple Icons
-import { SiCplusplus } from "react-icons/si";
+import { DiJava  } from "react-icons/di";
 import { SiJavascript } from "react-icons/si";
 import { SiTailwindcss } from "react-icons/si";
 import { motion } from "framer-motion";
@@ -71,7 +71,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiCplusplus color="#004381" className="text-6xl text-green-500" />
+          <DiJava color="#004381" className="text-6xl text-green-500" />
         </motion.div>
         <motion.div
           variants={iconVariants(4)}
