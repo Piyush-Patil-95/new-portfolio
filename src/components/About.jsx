@@ -39,7 +39,7 @@ const About = () => {
                   MVPS’s KBTCOE, Nashik - B.E. - IT
                 </p>
                 <p className="text-sm text-gray-600">
-                  Currently pursuing Fourth Year - 2021-2025
+                  2021-2025
                 </p>
                 <br />
                 <i className="bi bi-building text-3xl"></i>

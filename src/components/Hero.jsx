@@ -38,7 +38,7 @@ const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              As a B.E. student specializing in Information Technology, I
+              As a B.E. graduate specialized in Information Technology, I
               possess a strong foundation in software development, complemented
               by extensive knowledge in programming languages, CS fundamentals,
               and web development. I'm eager to use these skills to work on
